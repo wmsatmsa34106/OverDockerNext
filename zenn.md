@@ -17,3 +17,5 @@
 - Smartyななにか
     - https://pentan.info/php/smarty/comment.html
     - https://qiita.com/sano1202/items/1f49f407f310f2e493ff
+    - 結論
+    - https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1441988144
