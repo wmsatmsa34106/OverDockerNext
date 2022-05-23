@@ -9,7 +9,7 @@
     - https://catnose.me/timeline
 
 - https://twitter.com/zenn_dev?memo="Zenn公式"
-- https://zenn.dev/
+- https://zenn.dev/ bookmark
     - https://zenn.dev/suzuki_hoge/books/2022-03-docker-practice-8ae36c33424b59/viewer/3-8-docker-compose
     - https://zenn.dev/hinoshiba/articles/workstation-on-docker
 
